@@ -1,2 +1,1 @@
-# sysctl
-Tunning sysctl
+# Tunning sysctl
